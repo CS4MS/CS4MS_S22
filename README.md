@@ -1,8 +1,8 @@
 <img src="images/logo_CS_MS_final.png" height="500" align="right"> 
 
-# CS4MS - S21
+# CS4MS - S22
 
-This repository contains the exercises - provided in form of Jupyter notebooks - for the course CS4MS.
+This repository contains the exercises - provided in form of Jupyter notebooks - for the course CS4MS taught in the summer semester of 2022.
 
 ## How to Run
 
