@@ -20,3 +20,5 @@ More information and additional material can be found here [Summary of Tutorials
   - [Exercise 2: Introduction to Python - Part 2](https://colab.research.google.com/github/CS4MS/CS4MS_S22/blob/main/exercises/Exercise_2.ipynb)
 <!--- [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S22/blob/main/solutions/Exercise_2_Solution.ipynb)
 -->
+- Week 3
+  - [Exercise 3: Data Visualization and Analysis](https://colab.research.google.com/github/CS4MS/CS4MS_S22/blob/main/exercises/Exercise_3.ipynb)
