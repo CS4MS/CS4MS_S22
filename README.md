@@ -34,3 +34,5 @@ More information and additional material can be found here [Summary of Tutorials
   - [Exercise 6: Confusing pretrained Network with Transformations](https://colab.research.google.com/github/CS4MS/CS4MS_S22/blob/main/exercises/Exercise_6.ipynb) 
   - [Solution 6](https://colab.research.google.com/github/CS4MS/CS4MS_S22/blob/main/solutions/Exercise_6_Solution.ipynb)
 - Week 7
+  - [Exercise 7: Network Setup and First Training - Part 1](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/exercises/Exercise_7.ipynb)
+  <-- - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/solutions/Exercise_7_Solution.ipynb) -->
