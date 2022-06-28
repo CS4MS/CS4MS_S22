@@ -35,7 +35,7 @@ More information and additional material can be found here [Summary of Tutorials
   <-- [Solution 6](https://colab.research.google.com/github/CS4MS/CS4MS_S22/blob/main/solutions/Exercise_6_Solution.ipynb) -->
 - Week 7
   - [Exercise 7: Network Setup and First Training](https://colab.research.google.com/github/CS4MS/CS4MS_S22/blob/main/exercises/Exercise_7.ipynb)
-  - [Solution 7: (https://colab.research.google.com/github/CS4MS/CS4MS_S22/blob/main/solutions/Exercise_7_Solution.ipynb)]
+  - [Solution 7](https://colab.research.google.com/github/CS4MS/CS4MS_S22/blob/main/solutions/Exercise_7_Solution.ipynb)
 - Week 8
   - [Exercise 8: ]
-  - [Solution 8: ]
+  - [Solution]
